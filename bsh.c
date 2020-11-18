@@ -1,5 +1,5 @@
 /* 
- * bsh - the Bowdoin Shell
+ * 
  * 
  * <Finn Bergquist and Noah Gans>
  */
